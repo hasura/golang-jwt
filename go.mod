@@ -1,4 +1,4 @@
-module github.com/golang-jwt/jwt/v4
+module github.com/hasura/golang-jwt/v4
 
 go 1.16
 
